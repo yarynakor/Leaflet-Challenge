@@ -1,0 +1,17 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* tried to use CSS to make legend stand out */
+#divLegend {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+}
